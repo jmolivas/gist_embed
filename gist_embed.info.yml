@@ -1,0 +1,6 @@
+name: Gist embed
+type: module
+description: Ultra powered gist embedding for your website
+core: 8.x
+package: Other
+
