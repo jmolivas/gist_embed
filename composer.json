@@ -10,5 +10,10 @@
     "issues": "http://drupal.org/project/issues/gist_embed",
     "source": "http://cgit.drupalcode.org/gist_embed"
   },
-  "require": { }
+  "require": {},
+  "extra": {
+    "branch-alias": {
+      "dev-master": "8.1.x-dev"
+    }
+  }
 }
