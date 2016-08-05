@@ -12,3 +12,5 @@ ge-js:
   css:
       theme:
         css/gist-embed.css: {}
+  dependencies:
+    - core/jquery
