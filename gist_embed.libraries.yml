@@ -10,5 +10,5 @@ ge-js:
       attributes:
         async: true
   css:
-      theme:
-        css/gist-embed.css: {}
+    theme:
+      css/gist-embed.css: {}
